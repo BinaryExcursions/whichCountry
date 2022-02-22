@@ -273,7 +273,8 @@ input, select, textarea {
 	}
 
 		pre code {
-			display: block;
+			/*display: block;*/
+			display: inline-block;
 			line-height: 1.75em;
 			padding: 1em 1.5em;
 			overflow-x: auto;
